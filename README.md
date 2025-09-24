@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋   I'm Castro ,I love developing creatively and coming up with different solutions to problems as requested
+I am currently into web dev and application development and appylying various fields into them
 
 <!--
 **KingCastro84/KingCastro84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
