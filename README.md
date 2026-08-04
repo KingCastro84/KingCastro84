@@ -1,4 +1,4 @@
-## Hi there 👋   I'm Castro ,I love developing creatively and coming up with different solutions to problems as requested
+## Hi there    I'm Castro ,I love developing creatively and coming up with different solutions to problems as requested
 I am currently into web dev and application development and appylying various fields into them
 
 <!--
