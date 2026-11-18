@@ -1,6 +1,4 @@
-## Hi there    I'm Castro ,I love developing creatively and coming up with different solutions to problems as requested
-I am currently into web dev and application development and appylying various fields into them
-
+Hello, tech world is crazy right? Anyway my name is Fidel Castro and I am a software engineer. I mostly develop mobile applications , web applications and just started developing games. In terms of my stack I use dart a lot, JS, Typescript ,laravel , python and all. 
 <!--
 **KingCastro84/KingCastro84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
